@@ -1,0 +1,4 @@
+resistance=(tension alimentation - tension led)/intensite
+r=(u - ui)/intensite
+r=(5 - 2)/0,01
+r=300 ohm
